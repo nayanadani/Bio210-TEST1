@@ -6,7 +6,7 @@ x1,x2 = 0, 1
 
 
 
-for i in range(48):
+for i in range(98):
 
     x = x2 + x1
 
