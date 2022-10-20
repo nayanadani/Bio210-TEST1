@@ -6,7 +6,9 @@ x1,x2 = 0, 1
 
 
 
+
 for i in range(15):
+
 
     x = x2 + x1
 
