@@ -6,7 +6,9 @@ x1,x2 = 0, 1
 
 
 
-for i in range(98):
+
+for i in range(15):
+
 
     x = x2 + x1
 
@@ -15,3 +17,4 @@ for i in range(98):
     x2 = x
 
     fibo_list.append(x)
+print(fibo_list)
